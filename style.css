@@ -13,11 +13,12 @@ video{
   position: absolute;
 }
 .cameraContainer{
-  width: 1280px;
-  height: 720px;
+  width: 720px;
+  height: 420px;
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-bottom: 40px;
 }
 .optionContainer{
   width: 100%;
